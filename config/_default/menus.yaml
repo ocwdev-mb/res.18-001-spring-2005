@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 2842add0-8d1e-680b-3318-d7f7f69d7739
+  name: Textbook
+  pageRef: /pages/textbook
+  weight: 10
+- identifier: 17e76762-f3ba-c840-0d43-13aeb75d9620
+  name: Instructor's Manual
+  pageRef: /pages/instructor-s-manual
+  weight: 20
+- identifier: 4bf319e5-0f57-233b-aa55-3b126d0c8c6a
+  name: Study Guide
+  pageRef: /pages/study-guide
+  weight: 30
+- identifier: 1861c485-c2e6-b027-cc27-d041199fdfcd
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 40
